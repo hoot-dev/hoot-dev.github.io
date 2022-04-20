@@ -10,3 +10,5 @@ github_username: mhootman
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-cayman
