@@ -1,11 +1,10 @@
 # Site settings
-title: Hoot Blog!
-email: mhootman1980@gmail.com
+title: Hoot Dev
+email: matthew.hootman@gmail.com
 description: "Just a place to post thoughts on what I'm working on and learning in the world of web development."
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: mhootman80
-github_username: mhootman
+github_username: hoot-dev
 
 # Build settings
 markdown: kramdown
