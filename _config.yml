@@ -10,4 +10,4 @@ github_username: hoot-dev
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
